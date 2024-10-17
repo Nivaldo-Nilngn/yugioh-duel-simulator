@@ -44,7 +44,7 @@ Contribuições são sempre bem-vindas! Aqui estão algumas maneiras de ajudar:
 
 ## 🌐 GitHub Page
 
-Visite a [página do projeto no GitHub](https://github.com/Nivaldo-Nilngn/yugioh-duel-simulator) para mais informações, documentação e atualizações!
+Visite a [página do projeto no GitHub](https://nivaldo-nilngn.github.io/yugioh-duel-simulator/) para mais informações, documentação e atualizações!
 
 ## 🏁 Próximos Passos
 
